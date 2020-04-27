@@ -1,10 +1,15 @@
 <img src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" alt="COVID-19" data-canonical-src="http://opendatadpc.maps.arcgis.com/sharing/rest/content/items/5c8ef7516b5b4bb19f61037b4cd69015/data" width="400" />
 
+[Italiano](avvisi.md) - [English](avvisi_EN.md)<br><br>
+
 # Dati COVID-19 Italia
 
 ## Avvisi
 
 ```diff
+- 26/04/2020: dati Regione Valle d'Aosta ricalcolati (casi testati)
+- 24/04/2020: dati Regione Sardegna ricalcolati (1.237 tamponi aggiunti)
+- 24/04/2020: dati Regione Friuli Venezia Giulia in fase di revisione su dimessi/guariti
 - 23/04/2020: dati Regione Lazio parziali (casi testati non completi)
 - 23/04/2020: dati Regione Campania parziali (casi testati non aggiornati)
 - 21/04/2020: dati Regione Lombardia parziali (casi testati non aggiornati)
