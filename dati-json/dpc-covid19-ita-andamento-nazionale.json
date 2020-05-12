@@ -1295,7 +1295,10 @@
         "note_it": "",
         "note_en": ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "data": "2020-05-06T17:00:00",
@@ -1315,8 +1318,11 @@
         "note_it": "dc-IT-0021",
         "note_en": "dc-EN-0021"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> upstream/master
 =======
+=======
+>>>>>>> upstream/master
     },
     {
         "data": "2020-05-07T17:00:00",
@@ -1353,6 +1359,63 @@
         "casi_testati": 1608985,
         "note_it": "dc-IT-0025",
         "note_en": "dc-EN-0025"
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
+    },
+    {
+        "data": "2020-05-09T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 13834,
+        "terapia_intensiva": 1034,
+        "totale_ospedalizzati": 14868,
+        "isolamento_domiciliare": 69974,
+        "totale_positivi": 84842,
+        "variazione_totale_positivi": -3119,
+        "nuovi_positivi": 1083,
+        "dimessi_guariti": 103031,
+        "deceduti": 30395,
+        "totale_casi": 218268,
+        "tamponi": 2514234,
+        "casi_testati": 1645076,
+        "note_it": "",
+        "note_en": ""
+    },
+    {
+        "data": "2020-05-10T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 13618,
+        "terapia_intensiva": 1027,
+        "totale_ospedalizzati": 14645,
+        "isolamento_domiciliare": 68679,
+        "totale_positivi": 83324,
+        "variazione_totale_positivi": -1518,
+        "nuovi_positivi": 802,
+        "dimessi_guariti": 105186,
+        "deceduti": 30560,
+        "totale_casi": 219070,
+        "tamponi": 2565912,
+        "casi_testati": 1676460,
+        "note_it": "",
+        "note_en": ""
+    },
+    {
+        "data": "2020-05-11T17:00:00",
+        "stato": "ITA",
+        "ricoverati_con_sintomi": 13539,
+        "terapia_intensiva": 999,
+        "totale_ospedalizzati": 14538,
+        "isolamento_domiciliare": 67950,
+        "totale_positivi": 82488,
+        "variazione_totale_positivi": -836,
+        "nuovi_positivi": 744,
+        "dimessi_guariti": 106587,
+        "deceduti": 30739,
+        "totale_casi": 219814,
+        "tamponi": 2606652,
+        "casi_testati": 1702283,
+        "note_it": "",
+        "note_en": ""
 >>>>>>> upstream/master
     }
 ]
